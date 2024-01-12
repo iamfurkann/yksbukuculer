@@ -1,5 +1,5 @@
 Hedeflediği soru sayısı | Hedeflediği konu sayısı | Tarih |
-(Girdi) | (Girdi) | (Girdi) |
+1000, | 5 | 2024-01-12 12:51:48.554433 |
 
 Çözdüğü soru sayısı | Bitirdiği konu sayısı | Tarih |
-(Girdi) | (Girdi) | 2024-01-12 12:51:22 |
+Girdi | Girdi | Girdi |
