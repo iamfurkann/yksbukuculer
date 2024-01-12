@@ -1,5 +1,0 @@
-Hedeflediği soru sayısı | Hedeflediği konu sayısı | Tarih |
-700, | 2w | 2024-01-12 12:50:02.959227 |
-
-Çözdüğü soru sayısı | Bitirdiği konu sayısı | Tarih |
-Girdi | Girdi | Girdi |
