@@ -1,0 +1,5 @@
+Hedeflediği soru sayısı | Hedeflediği konu sayısı | Tarih |
+(Girdi) | (Girdi) | (Girdi) |
+
+Çözdüğü soru sayısı | Bitirdiği konu sayısı | Tarih |
+(Girdi) | (Girdi) | 2024-01-12 12:15:13 |
